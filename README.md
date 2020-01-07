@@ -68,7 +68,7 @@
 ![test](3.9.jpg)
     3.10) add file ให้เชื่อมกับ git ด้วยการพิมพ์คำสั่ง git add และตามด้วยชื่อ file
 ![test](3.10.jpg)
-    3.11) ตรวจสอบ version ด้วยการพิมพ์คำสั่ง git commit -m “test git”
+    3.11) ตรวจสอบว่า file ที่ทำการ add เข้ามา มีอะไรบ้าง ด้วยการพิมพ์คำสั่ง git commit -m “test git”
 ![test](3.11.jpg)
     3.12) ทำการดัน file ขึ้น GitHub ด้วยการพิมพ์คำสั่ง git push
 ![test](3.12.jpg)
